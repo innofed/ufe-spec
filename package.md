@@ -20,7 +20,7 @@
 开发时，我们通常会做一些测试用例或示例，此时需要通过AMD Loader将当前包粘合到页面环境，并使其可运行。这时我们需要遵守一些规则：
 
 * 对`内部模块依赖`，AMD Loader配置 **[建议]** 通过`packages`将`location`配置到`${root}`下的`src`目录， **[不允许]** 通过`paths`进行路径映射。
-* 对`外部包依赖`，请参照[项目目录结构规范](directory.md)将相关依赖包导入，并且 **[建议]** 通过`packages`项配置AMD Loader。
+* 对`外部包依赖`，请参照[目录结构规范](directory.md)将相关依赖包导入，并且 **[建议]** 通过`packages`项配置AMD Loader。
 
 ```javascript
 // 示例
@@ -92,7 +92,7 @@ require.config({
 
 ## 包目录结构
 
-包目录结构请参考 [项目目录结构规范](directory.md)
+包目录结构请参考[目录结构规范](directory.md)
 
 
 
