@@ -1,2 +1,34 @@
-# ufe-spec
-UFE specifications and coding style guide
+# UFE团队编码规范 V1.0
+
+每一位前端开发人员应该仔细阅读，并在实际开发中遵循规范的约定。
+
+规范根据开发情况会不断地完善，请及时跟踪。
+
+## 规范
+
+* [词汇表](vocabulary.md)
+* [目录结构规范](directory.md)
+* [接口文档规范](interface.md)
+* [Javascript编码规范](javascript.md)
+* [HTML编码规范](javascript.md)
+* [CSS编码规范](css.md)
+* [Less编码规范](less.md)
+* [Markdown编写规范](markdown.md)
+* [模块和加载器规范](module.md)
+* [包结构规范](package.md)
+
+
+## 说明
+
+文档中使用的如下关键字说明如下（可以参考[RFC2119](http://oss.org.cn/man/develop/rfc/RFC2119.txt)）
+
+* **[必须]**：应该绝对遵守
+* **[不允许]**：应该绝对禁止
+* **[必需]**：应该绝对包含
+* **[可选]**：可以包含，也可以不包含
+* **[应该/允许]**：尽量遵守，在有充足理由的情况下可以不遵守
+* **[不应该]**：尽量禁止，在有充足理由的情况下可以不禁止
+* **[建议]**：在有理由的情况下可以不遵守
+* **[不建议]**：在有理由的情况下可以不禁止
+
+
