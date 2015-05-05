@@ -10,7 +10,7 @@
 * [目录结构规范](directory.md)
 * [接口文档规范](interface.md)
 * [Javascript编码规范](javascript.md)
-* [HTML编码规范](javascript.md)
+* [HTML编码规范](html.md)
 * [CSS编码规范](css.md)
 * [Less编码规范](less.md)
 * [Markdown编写规范](markdown.md)
