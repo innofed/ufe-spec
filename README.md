@@ -20,6 +20,7 @@
 ## 通用规范
 
 * [词汇表](vocabulary.md)
+* [Gitlab提交规范](gitcommit.md)
 * [接口文档规范](interface.md)
 * [Markdown编写规范](markdown.md)
 
