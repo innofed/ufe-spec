@@ -36,7 +36,7 @@
 
 ## iOS
 
-（待补充）
+* [移动团队 Objective-C 规范](iOS/objective-c.md)
 
 ## Android
 
