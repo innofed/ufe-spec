@@ -24,7 +24,7 @@
 * [接口文档规范](interface.md)
 * [Markdown编写规范](markdown.md)
 
-## Web
+## Web团队
 
 * [目录结构规范](Web/directory.md)
 * [Javascript编码规范](Web/javascript.md)
@@ -34,12 +34,12 @@
 * [模块和加载器规范](Web/module.md)
 * [包结构规范](Web/package.md)
 
-## iOS
+## iOS团队
 
-* [移动团队 Objective-C 规范](iOS/objective-c.md)
+* [Objective-C 编码规范](iOS/objective-c.md)
 
-## Android
+## Android团队
 
-（待补充）
+* [Android 编码规范](Android/android_code_style.md)
 
 
